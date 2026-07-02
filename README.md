@@ -5,8 +5,8 @@ I built a small routed network using the Cisco Packet Tracer, involving 2 PCs, a
 This lab demonstrates a basic routed network that I built in Cisco Packet Tracer. The network includes two PCs connected to a switch, which connects to a router and server. The goal was to configure basic network settings and verify device connectivity.
 
 ## Network Topology
+- PC0
 - PC1
-- PC2
 - Switch
 - Router
 - Server
@@ -33,8 +33,8 @@ This lab demonstrates a basic routed network that I built in Cisco Packet Tracer
 ## Configuration Summary
 | Device | Purpose |
 |---|---|
+| PC0 | End-user workstation |
 | PC1 | End-user workstation |
-| PC2 | End-user workstation |
 | Switch | Connects local devices |
 | Router | Routes traffic between networks |
 | Server | Provides network service endpoint |
@@ -44,20 +44,29 @@ Connectivity was tested using ping between devices to confirm that the network w
 
 ## Screenshots
 
-### Network Topology
+### PCs IP Configuration
+![PC0 Configuration](cisco-packet-tracer-lab-1)
 
+![PC1 Configuration](cisco-packet-tracer-lab-2)
 
-### PC IP Configuration
+### Ping Test between PC0 and PC1
+![Ping Testing the PCs](cisco-packet-tracer-lab-3)
 
+### Router to Switch Configuration
+![Router Configuration](cisco-packet-tracer-lab-4)
 
-### Router Configuration
-![Router Configuration](screenshots/router-config.png)
+### Router to Server Configuration
+![Router Configuration](cisco-packet-tracer-lab-5)
 
 ### Server Configuration
-![Server Configuration](screenshots/server-config.png)
+![Router Configuration](cisco-packet-tracer-lab-6)
 
 ### Ping Test
-![Ping Test](screenshots/ping-test.png)
+![Final Ping Test](cisco-packet-tracer-lab-7)
+
+### Overall Packet Tracer Setup Layout
+![Layout](cisco-packet-tracer-lab-8)
+
 
 ## What I Learned
 Through this lab, I practiced configuring a basic network, assigning IP addresses, using default gateways, and validating connectivity between devices. This helped reinforce networking fundamentals such as switching, routing, and troubleshooting connectivity issues.
