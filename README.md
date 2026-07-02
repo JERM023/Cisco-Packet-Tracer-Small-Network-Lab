@@ -11,15 +11,15 @@ This lab demonstrates a basic routed network that I built in Cisco Packet Tracer
 - Router
 - Server
 
-## Skills Practiced
-- Cisco Packet Tracer network design
-- Basic router configuration
-- IP addressing
+## Skills Demonstrated
+
+- Network topology design
+- Cisco IOS basic configuration
+- IPv4 addressing
 - Default gateway configuration
-- Switch connectivity
-- Server setup
-- Connectivity testing using ping
-- Basic troubleshooting
+- Router interface configuration
+- End-to-end connectivity testing
+- Troubleshooting network communication
 
 ## Lab Objectives
 - Connect end devices to a switch
@@ -42,29 +42,29 @@ This lab demonstrates a basic routed network that I built in Cisco Packet Tracer
 ## Testing
 Connectivity was tested using ping between devices to confirm that the network was configured correctly.
 
-## Screenshots
+# Screenshots
 
-### PCs IP Configuration
+# PCs IP Configuration
 ![PC0 Configuration](cisco-packet-tracer-lab-1.png)
 
 ![PC1 Configuration](cisco-packet-tracer-lab-2.png)
 
-### Ping Test between PC0 and PC1
+# Ping Test between PC0 and PC1 (Successful)
 ![Ping Testing the PCs](cisco-packet-tracer-lab-3.png)
 
-### Router to Switch Configuration
+# Router to Switch Configuration
 ![Router Configuration](cisco-packet-tracer-lab-4.png)
 
-### Router to Server Configuration
+# Router to Server Configuration
 ![Router Configuration](cisco-packet-tracer-lab-5.png)
 
-### Server Configuration
+# Server Configuration
 ![Router Configuration](cisco-packet-tracer-lab-6.png)
 
-### Ping Test
+# Final Ping Test
 ![Final Ping Test](cisco-packet-tracer-lab-7.png)
 
-### Overall Packet Tracer Setup Layout
+# Overall Packet Tracer Setup Layout
 ![Layout](cisco-packet-tracer-lab-8.png)
 
 
