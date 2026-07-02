@@ -45,27 +45,27 @@ Connectivity was tested using ping between devices to confirm that the network w
 ## Screenshots
 
 ### PCs IP Configuration
-![PC0 Configuration](cisco-packet-tracer-lab-1)
+![PC0 Configuration](cisco-packet-tracer-lab-1.png)
 
-![PC1 Configuration](cisco-packet-tracer-lab-2)
+![PC1 Configuration](cisco-packet-tracer-lab-2.png)
 
 ### Ping Test between PC0 and PC1
-![Ping Testing the PCs](cisco-packet-tracer-lab-3)
+![Ping Testing the PCs](cisco-packet-tracer-lab-3.png)
 
 ### Router to Switch Configuration
-![Router Configuration](cisco-packet-tracer-lab-4)
+![Router Configuration](cisco-packet-tracer-lab-4.png)
 
 ### Router to Server Configuration
-![Router Configuration](cisco-packet-tracer-lab-5)
+![Router Configuration](cisco-packet-tracer-lab-5.png)
 
 ### Server Configuration
-![Router Configuration](cisco-packet-tracer-lab-6)
+![Router Configuration](cisco-packet-tracer-lab-6.png)
 
 ### Ping Test
-![Final Ping Test](cisco-packet-tracer-lab-7)
+![Final Ping Test](cisco-packet-tracer-lab-7.png)
 
 ### Overall Packet Tracer Setup Layout
-![Layout](cisco-packet-tracer-lab-8)
+![Layout](cisco-packet-tracer-lab-8.png)
 
 
 ## What I Learned
